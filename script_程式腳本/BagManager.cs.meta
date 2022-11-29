@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4112c8103c86a684c83bc19cc150a7fd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Mybag: {fileID: 11400000, guid: 66a7f4cba8c231a40ab2f357d017db80, type: 2}
+  - SoltGrid: {instanceID: 0}
+  - soltprefab: {fileID: 1111961842553107434, guid: 608ed6d91b9a7ba4195a59e8e6065988, type: 3}
+  - info: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
