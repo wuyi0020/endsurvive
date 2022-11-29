@@ -1,0 +1,6 @@
+game1你好,玩家1
+game1測試用劇本,玩家1
+
+//storytestpass
+game1劇本結束,玩家2
+stop
